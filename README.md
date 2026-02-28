@@ -6,7 +6,7 @@ I love building projects that solve real-world problems and learning new technol
 
 - 🌱 Currently learning **Advanced DSA & Fullstack Web Development**
 - 💬 Ask me about **C++, HTML, CSS, JavaScript**
-- 📫 Reach me at: [zubaerahmed@example.com](mailto:zubaerahmed@example.com)
+- 📫 Reach me at: breezysiam29@example.com
 - ⚡ Fun fact: Coffee lover ☕ & always coding!  
 
 ---
@@ -43,7 +43,7 @@ I love building projects that solve real-world problems and learning new technol
 ---
 
 ## 📫 Contact Me
-- Email: [zubaerahmed@example.com](mailto:zubaerahmed@example.com)  
+- Email: [breezysiam29@example.com](mailto:zubaerahmed@example.com)  
 - LinkedIn: [linkedin.com/in/zubaerahmed](https://www.linkedin.com/in/zubaerahmed)  
 - Portfolio: [zubaerahmed-01.github.io/portfolio](https://zubaerahmed-01.github.io/portfolio)  
 
